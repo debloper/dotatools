@@ -1,0 +1,31 @@
+{
+  "name": "dotatools",
+  "version": "1.0.0",
+  "description": "Some scripts for Dota 2 stats analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debloper/dotatools.git"
+  },
+  "keywords": [
+    "dota",
+    "dota 2",
+    "tools",
+    "stat",
+    "analysis"
+  ],
+  "author": "Soumya Deb <debloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debloper/dotatools/issues"
+  },
+  "homepage": "https://github.com/debloper/dotatools#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
